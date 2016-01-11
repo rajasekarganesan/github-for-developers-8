@@ -1,0 +1,95 @@
+[33mcommit 9d709cc0b16f4db861eefa5f10c7f47a4c6035f7[m
+Author: rajasekar ganesan <rajasekar.ganesan@biworldwide.com>
+Date:   Mon Jan 11 11:23:10 2016 +0530
+
+    please check atom --wait
+
+ docs/rajasekar.md        | 2 [32m++[m
+ docs/rajasekarganesan.md | 2 [31m--[m
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 55e6fcff44fe60d3ebe18e03e77c1fb87220e389[m
+Author: rajasekarganesan <rajasekar.ganesan@biworldwide.com>
+Date:   Wed Jan 6 13:08:17 2016 +0530
+
+    Add Favorite color
+
+ rajasekar ganesan.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 5064aededb7ccc8f6bfec10f2956775d0deed684[m
+Merge: 8173a64 7be21ae
+Author: rajasekarganesan <rajasekar.ganesan@biworldwide.com>
+Date:   Wed Jan 6 12:51:10 2016 +0530
+
+    Merge pull request #7 from rajasekarganesan/rajasekarganesan
+    
+    Rajasekar ganesan
+
+[33mcommit 7be21ae076d46940d5c6bc1477c6fa580e516053[m
+Author: rajasekarganesan <rajasekar.ganesan@biworldwide.com>
+Date:   Tue Jan 5 18:42:27 2016 +0530
+
+    Add rajasekar ganesan Introduction
+    
+    I added an Introduction file for rajasekar ganesan.
+
+ rajasekar ganesan.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit b16b268bef0690e91f2ecf60463b3606becf9b9c[m
+Author: rajasekarganesan <rajasekar.ganesan@biworldwide.com>
+Date:   Tue Jan 5 18:37:07 2016 +0530
+
+    Add rajasekar ganesan Introduction
+    
+    I added an Introduction file for   rajasekar ganesan .
+
+ docs/rajasekarganesan.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 8173a648802979fabc1857f3599d85186f60143a[m
+Author: Peter Bell <PeterBell@users.noreply.github.com>
+Date:   Mon Nov 2 12:19:35 2015 -0500
+
+    Update README.md
+
+ README.md | 22 [32m+++[m[31m-------------------[m
+ 1 file changed, 3 insertions(+), 19 deletions(-)
+
+[33mcommit c569ac51d932db21f62bafbcdbaf22f8ad77e9a5[m
+Author: Cynthia Rich <crichID@github.com>
+Date:   Tue May 26 10:57:13 2015 -0400
+
+    change repo specific links
+
+ README.md                            | 27 [32m+++++++++++[m[31m----------------[m
+ instructions/add-file-on-github.md   |  2 [32m+[m[31m-[m
+ instructions/push-changes-desktop.md |  2 [32m+[m[31m-[m
+ 3 files changed, 13 insertions(+), 18 deletions(-)
+
+[33mcommit ec0b89bcb7e1534295f0fa9024a706c3cfed5b16[m
+Author: Cynthia Rich <crichID@github.com>
+Date:   Tue May 26 10:55:19 2015 -0400
+
+    initialize template repo
+
+ README.md                                | 31 [32m++++++++++++++++++++++++++++++[m[31m-[m
+ instructions/add-file-on-github.md       | 17 [32m+++++++++++++++++[m
+ instructions/changing-files-on-GitHub.md |  8 [32m++++++++[m
+ instructions/clone-a-repo.md             |  6 [32m++++++[m
+ instructions/create-issue.md             | 18 [32m++++++++++++++++++[m
+ instructions/make-changes-on-desktop.md  |  8 [32m++++++++[m
+ instructions/merge-your-pull-request.md  |  8 [32m++++++++[m
+ instructions/new-file-on-desktop.md      |  6 [32m++++++[m
+ instructions/push-changes-desktop.md     | 11 [32m+++++++++++[m
+ 9 files changed, 112 insertions(+), 1 deletion(-)
+
+[33mcommit 321618c1ad14eb9feb5f12461a0fcb2971525152[m
+Author: certify <certify@roninlabs.io>
+Date:   Tue May 26 10:45:51 2015 -0400
+
+    Initial commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
